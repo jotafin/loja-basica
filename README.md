@@ -31,21 +31,21 @@ Para começar a usar este projeto, siga as instruções abaixo:
 
 2. **Navegue até o diretório do projeto**:
 
-  ```bash
+   ```bash
   cd loja-basica
 
 
 3. **Instale as dependências**:
 
-  ```bash
-  npm install
-  # ou
-  yarn install
+   ```bash
+     npm install
+     # ou
+     yarn install
 
 
 4. **Execute o projeto**:
 
-  ```bash
+   ```bash
   npx expo start
 
 Isso abrirá o Expo Developer Tools no navegador. Você pode escanear o QR code com o aplicativo Expo Go no seu dispositivo móvel para visualizar o aplicativo, ou utilizar um emulador Android/iOS.
@@ -54,11 +54,9 @@ Isso abrirá o Expo Developer Tools no navegador. Você pode escanear o QR code 
 ## Capturas de Tela
 <p align="left"> <!-- <img src="assets/app.png" alt="Mockup do aplicativo" /> --> </p>
 
-##Licença
+## Licença
 Lançado em 2024.
 
 Este projeto está sob a licença MIT license.
 
-Se você tiver alguma dúvida ou sugestão, entre em contato através do email: seu-email@example.com.
-  ```bash
-  Adapte o link da licença e o email para corresponder às suas informações. Este modelo fornece um
+
