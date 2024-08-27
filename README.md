@@ -46,7 +46,7 @@ Para começar a usar este projeto, siga as instruções abaixo:
 4. **Execute o projeto**:
 
    ```bash
-  npx expo start
+     npx expo start
 
 Isso abrirá o Expo Developer Tools no navegador. Você pode escanear o QR code com o aplicativo Expo Go no seu dispositivo móvel para visualizar o aplicativo, ou utilizar um emulador Android/iOS.
 
