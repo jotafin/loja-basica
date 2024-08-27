@@ -52,7 +52,7 @@ Isso abrirá o Expo Developer Tools no navegador. Você pode escanear o QR code 
 
 
 ## Capturas de Tela
-<p align="left"> <!-- <img src="assets/app.png" alt="Mockup do aplicativo" /> --> </p>
+<p align="left"> <!-- <img src="./assets/app.png" alt="Mockup do aplicativo" /> --> </p>
 
 ## Licença
 Lançado em 2024.
