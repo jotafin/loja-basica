@@ -10,7 +10,7 @@ Neste projeto, desenvolvemos um aplicativo React Native que simula uma loja. Uti
 
 - **React Native**: Framework para construir aplicativos móveis usando JavaScript e React.
 - **FlatList**: Componente utilizado para exibir uma lista de dados de forma eficiente.
-- **Hooks**: Funções como `useState` e `useEffect` para gerenciamento de estado e efeitos colaterais.
+- **Hooks**: Funções como `useState` para gerenciamento de estado e efeitos colaterais.
 - **Props**: Propriedades passadas para componentes para personalização e comunicação entre eles.
 
 ## Funcionalidades
@@ -32,7 +32,7 @@ Para começar a usar este projeto, siga as instruções abaixo:
 2. **Navegue até o diretório do projeto**:
 
    ```bash
-  cd loja-basica
+     cd loja-basica
 
 
 3. **Instale as dependências**:
@@ -52,7 +52,7 @@ Isso abrirá o Expo Developer Tools no navegador. Você pode escanear o QR code 
 
 
 ## Capturas de Tela
-<p align="left"> <!-- <img src="./assets/app.png" alt="Mockup do aplicativo" /> --> </p>
+   <p align="left"> <!-- <img src="./assets/app.png" alt="Mockup do aplicativo" /> --> </p>
 
 ## Licença
 Lançado em 2024.
